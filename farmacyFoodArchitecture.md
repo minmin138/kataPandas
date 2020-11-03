@@ -62,7 +62,8 @@ Before diving into the architecture it is important to have a unified language o
       - The user can use a way to open the fridge via the app e.g a code
    provided to the user that they can enter
 
-## Diagram
+
+## System Design 
 
   ![](architecture.png)
   
